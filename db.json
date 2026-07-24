@@ -1,0 +1,7 @@
+{
+  "users": [
+    { "id": 1, "name": "Julian" },
+    { "id": 2, "name": "Test User" }
+  ],
+  "posts": [{ "id": 1, "title": "Hello World", "userId": 1 }]
+}
